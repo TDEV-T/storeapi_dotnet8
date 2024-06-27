@@ -1,0 +1,6 @@
+@DotnetStoreAPI_HostAddress = http://localhost:5064/api
+
+GET {{DotnetStoreAPI_HostAddress}}/Auth/testconnectdb
+Accept: application/json
+
+###
